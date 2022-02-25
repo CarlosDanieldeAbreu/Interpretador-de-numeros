@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "fe5ee8f0-6919-46d5-b38e-8309600d55f4": {
+      "ProjectGuid": "fe5ee8f0-6919-46d5-b38e-8309600d55f4",
+      "DisplayName": "InterpretadorDeNumeros.ConsoleApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
